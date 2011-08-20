@@ -17,7 +17,7 @@
 	position : absolute;
 	bottom : -16px;
 	left : 0px;
-	background-image : url(mariobackground.png);
+	background-image : url(/public/mariobackground.png);
 /*	overflow-x : hidden;*/
 }
 
