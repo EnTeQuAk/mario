@@ -21,7 +21,7 @@ var collisionMap = [
 var $mario = $("#background .level .mario-sprite");
 
 var marioImg = new Image();
-marioImg.src = "/public/mariosprite.png";
+marioImg.src = "/static/mariosprite.png";
 $mario.append(marioImg);
 
 var pos = [8,13 - $(window).height()/16];
