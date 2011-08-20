@@ -48,7 +48,6 @@ function checkIdle() {
 }
 
 function initMario() {
-  alert("init mario!");
 	var data = $.cookie("mario-data");
 	if (data) {
 		var vals = data.split(",");
